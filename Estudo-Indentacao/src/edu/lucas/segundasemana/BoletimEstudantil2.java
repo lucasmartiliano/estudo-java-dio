@@ -1,3 +1,4 @@
+package edu.lucas.segundasemana;
 
 // COM INDENTAÇÃO
 

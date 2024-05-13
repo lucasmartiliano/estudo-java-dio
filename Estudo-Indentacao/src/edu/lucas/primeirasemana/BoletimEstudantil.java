@@ -1,3 +1,4 @@
+package edu.lucas.primeirasemana;
 
 // SEM INDENTAÇÃO
 
